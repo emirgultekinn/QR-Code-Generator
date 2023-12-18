@@ -1,0 +1,29 @@
+.body{
+  color: black;
+  background-color: aquamarine;
+}
+
+
+.header {
+  text-align: center;
+}
+
+.qr-code {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin-top: 5%;
+}
+
+.input-here{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10%;
+}
+
+.App {
+  background-color: brown;
+}
+
+
